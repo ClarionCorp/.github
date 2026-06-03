@@ -10,6 +10,4 @@ We're starting to open source a lot of our stuff, so you can find that stuff her
 | Main Site             | https://clarioncorp.net              |
 | Public API            | https://api.clarioncorp.net          |
 | Documentation         | https://docs.clarioncorp.net         |
-|                       |                                      |
-| Sister Site           | https://aimis.app                    |
-| ByteBreakers Playtest | https://bytebreakers.clarioncorp.net |
+| Companion App         | https://clarioncorp.net/app          |
