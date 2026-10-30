@@ -11,3 +11,4 @@ We're starting to open source a lot of our stuff, so you can find that stuff her
 | Public API            | https://api.clarioncorp.net          |
 | Documentation         | https://docs.clarioncorp.net         |
 | Companion App         | https://clarioncorp.net/app          |
+| Dedicated Server      | https://clarioncorp.net/atlas        |
